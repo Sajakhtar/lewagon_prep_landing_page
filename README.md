@@ -4,7 +4,7 @@
 
 A simple landing page tutorial as a part of the Le Wagon Web Developmnet bootcamp preparation.
 
-[See Live]()
+[See Live](https://sajakhtar.github.io/lewagon_prep_landing_page/)
 
 - Bootstrap used for responsive grid layout.
 - Chivo font used from Google Fonts.
